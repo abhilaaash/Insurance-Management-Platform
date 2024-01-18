@@ -37,7 +37,7 @@ Incorporated essential functionalities such as policy registration, commission c
 
 ### Administrator Dashboard
 
-![Administrator Dashboard](url_to_admin_gif.gif)
+![Administrator Dashboard](Gifs/Admin-ezgif.com-video-to-gif-converter.gif)
 
 ### Employee Dashboard
 

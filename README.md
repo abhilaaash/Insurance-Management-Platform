@@ -41,15 +41,15 @@ Incorporated essential functionalities such as policy registration, commission c
 
 ### Employee Dashboard
 
-![Employee Dashboard](url_to_employee_gif.gif)
+![Employee Dashboard](Gifs/Employee-ezgif.com-video-to-gif-converter.gif)
 
 ### Customer Dashboard
 
-![Customer Dashboard](url_to_customer_gif.gif)
+![Customer Dashboard](Gifs/Customer-ezgif.com-video-to-gif-converter.gif)
 
 ### Agent Dashboard
 
-![Agent Dashboard](url_to_agent_gif.gif)
+![Agent Dashboard](Gifs/Agent-ezgif.com-video-to-gif-converter.gif)
 ## Challenges and Learning
 
 ### Data Security and Compliance

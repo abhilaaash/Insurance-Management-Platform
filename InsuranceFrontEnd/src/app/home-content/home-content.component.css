@@ -1,0 +1,64 @@
+.container {
+    max-width: 800px;
+    margin: 20px auto; /* Set margin to auto to center horizontally */
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    text-align: center; /* Center-align the content */
+}
+
+h2 {
+    color: #053c6d;
+    
+    text-align: center; 
+
+}
+
+.testimonial {
+    border-bottom: 1px solid #ddd;
+    padding: 20px 0;
+    margin-bottom: 20px;
+}
+
+.testimonial img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.testimonial-text {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* Star rating styling */
+.stars {
+    display: inline-block;
+}
+
+.star {
+    color: #caa251;
+    font-size: 20px;
+    margin-right: 5px;
+}
+
+
+/* FAQ styling */
+.faq-item {
+    border-bottom: 1px solid #ddd;
+    padding: 20px 0;
+    margin-bottom: 20px;
+}
+
+.question {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.answer {
+    font-size: 16px;
+    line-height: 1.5;
+}

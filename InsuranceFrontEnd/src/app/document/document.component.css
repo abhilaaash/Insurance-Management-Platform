@@ -1,0 +1,35 @@
+/* Add this CSS to your existing styles or create a new CSS file */ 
+ 
+/* Container for the buttons */ 
+.button-container { 
+    display: flex; 
+    justify-content: space-between; 
+    /* Adjust as needed */ 
+} 
+ 
+/* Style for the buttons */ 
+.btn { 
+    /* Your button styles here */ 
+} 
+ 
+/* Style to align upload buttons in one row */ 
+.button-container>div { 
+    display: flex; 
+    flex-direction: row; 
+    justify-content: space-between; 
+} 
+ 
+/* Add some margin to the buttons for spacing */ 
+.button-container .btn { 
+    margin-right: 10px; 
+    /* Adjust as needed */ 
+}
+div { 
+    margin: 10px; 
+} 
+ 
+p { 
+    font-family: Arial, sans-serif; 
+    font-size: 16px; 
+ 
+}

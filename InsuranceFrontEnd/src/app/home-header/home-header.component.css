@@ -1,0 +1,50 @@
+/* Navbar */
+.navbar {
+    background: linear-gradient(135deg, #9f6bff, #7affe9);
+    padding: 2px 0;
+    /* Increase padding for better visibility */
+}
+
+.navbar-brand img {
+    width: 90px;
+    height: 90px;
+    margin-right: 150px;
+}
+
+.nav-link {
+    float: left;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    width: 250%;
+    margin-right: 150px; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+    
+}
+
+.nav-link:hover {
+    color: #ff4c4c;
+}
+
+.navbar-toggler-icon {
+    background-color: #fff;
+    border-radius: 500px;
+    padding: 3px;
+}
+
+.dropdown-toggle::after {
+    display: none;
+}
+
+.dropdown-menu {
+    background: linear-gradient(135deg, #76b39d, #5c80a1);
+}
+
+.dropdown-item {
+    color: #fff;
+    transition: color 0.2s ease-in-out;
+}
+
+.dropdown-item:hover {
+    color: #ff4c4c;
+}

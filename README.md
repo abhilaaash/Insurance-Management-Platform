@@ -1,6 +1,21 @@
 # Insurance-Management-Platform
 This  project centers on the development of a user-friendly web-based insurance management platform. This platform will efficiently serve administrators, employees, customers, and agents, streamlining their insurance-related tasks and interactions
 
+# Project Technologies
+
+
+[![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-Latest-blue.svg)](https://dotnet.microsoft.com/apps/aspnet)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Latest-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-Latest-blue.svg)](https://www.microsoft.com/en-us/sql-server)
+[![Entity Framework](https://img.shields.io/badge/Entity%20Framework-Latest-orange.svg)](https://docs.microsoft.com/en-us/ef/)
+[![Postman](https://img.shields.io/badge/Postman-Latest-green.svg)](https://www.postman.com/)
+[![Web API](https://img.shields.io/badge/WebAPI-Latest-blue.svg)](https://dotnet.microsoft.com/apps/aspnet/apis)
+[![Design Patterns](https://img.shields.io/badge/Design%20Patterns-Latest-lightgrey.svg)](https://en.wikipedia.org/wiki/Software_design_pattern)
+[![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-Latest-yellowgreen.svg)](https://en.wikipedia.org/wiki/SOLID)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Latest-blue.svg)](https://www.typescriptlang.org/)
+[![HTML](https://img.shields.io/badge/HTML-Latest-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-Latest-blue.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SCSS](https://img.shields.io/badge/SCSS-Latest-pink.svg)](https://sass-lang.com/)
 
 ## What One can learn From this Project
 

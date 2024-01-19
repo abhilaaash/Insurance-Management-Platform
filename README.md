@@ -147,6 +147,11 @@ This will create a Migrations folder in the solution explorer.
 ## Contributing
 
 Thank you for considering contributing to the Insurance Management Platform! Your help is greatly appreciated.
+### Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+
 
 ### How Can You Contribute?
 
